@@ -3,3 +3,13 @@
 * {
     font-family: 'Montserrat', sans-serif;
 }
+
+.caro_img {
+    height: 400px;
+}
+
+.navimg {
+    width: 40px;
+    margin-right: 10px;
+    border-radius: 50%;
+}
