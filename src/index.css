@@ -1,15 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap');
-
-* {
-    font-family: 'Montserrat', sans-serif;
-}
-
-.caro_img {
-    height: 400px;
-}
-
-.navimg {
-    width: 40px;
-    margin-right: 10px;
-    border-radius: 50%;
-}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
