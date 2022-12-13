@@ -27,8 +27,8 @@ const MainNavbar = () => {
         <Navbar.Link href="/navbars">
           About
         </Navbar.Link>
-        <Navbar.Link href="/navbars">
-          Services
+        <Navbar.Link href="/gallery">
+          Gallery
         </Navbar.Link>
         <Navbar.Link href="/navbars">
           Pricing
